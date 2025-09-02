@@ -1,5 +1,5 @@
 <h2 align="center">Mrittika Roy</h2>
-<h4 align="center">I am a deep learning enthusiast and passionate about software development. Currently I am learning different deep learning models using PyTorch.</h4>
+<h4 align="center">I am a deep learning enthusiast and passionate about intelligent software development. Currently I am learning different deep learning models using PyTorch.</h4>
 
 - I’m currently working as an **AI Developer**
 
