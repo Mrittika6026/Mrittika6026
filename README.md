@@ -1,7 +1,7 @@
 <h2 align="center">Mrittika Roy</h2>
 <h4 align="center">I am a deep learning enthusiast and passionate about software development. Currently I am learning different deep learning models using PyTorch.</h4>
 
-- I’m currently learning **GAN**
+- I’m currently working as an **AI Developer**
 
 - All of my projects are available at [https://github.com/Mrittika6026](https://github.com/Mrittika6026)
 
