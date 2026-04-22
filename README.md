@@ -25,7 +25,7 @@ I have a paper under review in **Advanced Intelligent Systems (Wiley, IF 6.1)** 
 
 ### Current Work
 
-- **AI Engineer @ Ztrios Technologies Ltd.** — RAG systems, data preprocessing, fine-tuning Qwen3-4B with LoRA (PEFT), CI/CDPipeline Automation
+- **AI Engineer @ Ztrios Technologies Ltd.** — RAG systems, data preprocessing, fine-tuning Qwen3-4B with LoRA (PEFT), CI/CD Pipeline Automation
 - **Research** — Contrastive learning for AI-generated image detection (on-going)
 
 ---
