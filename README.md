@@ -34,7 +34,7 @@ I have a paper under review in **Advanced Intelligent Systems (Wiley, IF 6.1)** 
 
 **AI & ML:** Python, Deep Learning, EDA
 
-**Frameworks & Tools:** PyTorch, HuggingFace, FAISS, GCP Cloud Run
+**Frameworks & Tools:** PyTorch, HuggingFace, FAISS, FastAPI, GCP Cloud Run
 
 **Research Areas:** Computer Vision, LLMs, RAG, VLMs, Multimodal AI, Explainable AI, Contrastive Learning
 
